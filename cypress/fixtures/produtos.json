@@ -1,0 +1,30 @@
+[
+{
+  "nomeProduto" : "Apollo Running Short",
+  "tamanho":33,
+  "cor":"Black",
+  "quantidade":"2"
+},
+
+{
+  "nomeproduto" : "Ariel Roll Sleeve Sweatshirt",
+  "tamanho":"S",
+  "cor":"Green",
+  "quantidade":"8"
+},
+
+{
+  "nomeproduto" : "Celeste Sports Bra",
+  "tamanho":"M",
+  "cor":"Red",
+  "quantidade":"6"
+},
+
+{
+  "nomeproduto" : "Hero Hoodie",
+  "tamanho":"L",
+  "cor":"Gray",
+  "quantidade":"4"
+}
+
+]
